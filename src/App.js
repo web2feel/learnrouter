@@ -9,9 +9,7 @@ import StoryID from "./routes/StoryID";
 import Profile from "./routes/Profile";
 import Login from "./routes/Login";
 import Protected from "./components/Protected";
-
 function App() {
-
   return (
     <div className="bg-slate-100 min-h-screen max-w-screen-lg mx-auto flex flex-col">
       <Header />
