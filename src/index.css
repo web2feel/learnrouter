@@ -5,3 +5,7 @@
 body{
     @apply bg-slate-300;
 }
+
+/* .active{
+    @apply text-red-500 ;
+} */
